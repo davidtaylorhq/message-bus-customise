@@ -1,0 +1,7 @@
+{
+  "author": "David Taylor",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-discourse": "latest"
+  }
+}

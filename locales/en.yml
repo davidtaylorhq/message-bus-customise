@@ -1,0 +1,3 @@
+en:
+  theme_metadata:
+    description: "Allows customizing messsage-bus parameters for testing"
